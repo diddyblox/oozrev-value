@@ -17,7 +17,7 @@
     "hoarded": true
   },
   "https://oozrev.fit/catalog/327/Pink-Sparkle-Time-Fedora": 2500,
-  "https://oozrev.fit/catalog/345/Ops-Warrior": 1250,
+  "https://oozrev.fit/catalog/345/Ops-Warrior": 1500,
   "https://oozrev.fit/catalog/338/Rupaws-Headphones": 1000,
   "https://oozrev.fit/catalog/101/Orange-Sparkle-Time-Fedora": 2000,
   "https://oozrev.fit/catalog/156/Dual-Darkhearts": 1250,
@@ -36,5 +36,10 @@
   "https://oozrev.fit/catalog/729/Where-are-the-eggs": {
     "value": 250,
     "projected": true
-  }
+  },
+  "https://oozrev.fit/catalog/754/Memento-Mori": 2000,
+  "https://oozrev.fit/catalog/734/Interstellar-Wings": 750,
+  "https://oozrev.fit/catalog/760/The-Void-Star": 650,
+  "https://oozrev.fit/catalog/779/Prankster": 250,
+  "https://oozrev.fit/catalog/774/LOLWHY": 100
 }
